@@ -7,7 +7,7 @@
     "dist",
     "types"
   ],
-  "main": "dist/direct-vuex.umd.js",
+  "main": "build/compiled-es5/direct-vuex.js",
   "module": "dist/direct-vuex.esm.js",
   "types": "types/index.d.ts",
   "scripts": {
